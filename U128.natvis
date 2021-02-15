@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+/*******************************************************************
+*
+*    Author: Kareem Omar
+*    kareem.h.omar@gmail.com
+*    https://github.com/komrad36
+*
+*    Last updated Feb 15, 2021
+*******************************************************************/
+-->
+
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="U128">
+    <DisplayString>{NatVisStr_DebugOnly(*this),sb}</DisplayString>
+  </Type>
+</AutoVisualizer>
